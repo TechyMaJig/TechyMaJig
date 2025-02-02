@@ -13,7 +13,7 @@ I excel in **aligning cross-functional teams** to implement strategic priorities
 I'm always seeking new ways to expand my skills and knowledge, whether through **technical learning, professional development, or personal enrichment**. Continuous improvement is at the heart of everything I do!
 
 # 💡 **Interests & Hobbies**
-- 🏞️ **Hiking, Camping & Kayaking**
+- 🏞️ **Traveling, Hiking, Camping & Kayaking**
 - 🍳 **Cooking & Baking** (I love entertaining!)
 - 📚 **Reading** – Always up for a great book recommendation
 
@@ -22,6 +22,8 @@ I'm always seeking new ways to expand my skills and knowledge, whether through *
 
 
 # ⚡ **Fun Fact**
-My wanderlust was sparked early on – road-tripping across the U.S. with family and friends, navigating state highways and quirky roadside attractions. As an exchange student in Germany and later living in Perth, Australia, I transformed those childhood adventures into a global passion for exploration. From family travels to solo international experiences, I've always believed the world is best understood through curious eyes and an open heart. Next destination? Always TBD! 🌍✈️
+My wanderlust was sparked early on – road-tripping across the U.S. with my parents, navigating state highways and quirky roadside attractions. As a high school exchange student and later living in Perth, Australia, I transformed those childhood adventures into a global passion for exploration. From family travels to solo international experiences, I've always believed the world is best understood through curious eyes and an open heart. Next destination? Always TBD! 🌍✈️
+
 ---
+
 📝 **License:** All rights reserved. This README may not be copied, modified, or redistributed without explicit permission. 😊
